@@ -52,7 +52,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrX7yoCF0oIOFUDibu9uchgeyihc1pRCUOcQ&s" height="40" alt="django logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrX7yoCF0oIOFUDibu9uchgeyihc1pRCUOcQ&s" height="40" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://miro.medium.com/v2/resize:fit:1200/0*os46BZb4bK8cgwcx.png" height="40" alt="vpc logo"  />
+  <img width="12" />
+  <img src="https://miro.medium.com/v2/resize:fit:1200/0*os46BZb4bK8cgwcx.png" height="40" alt="ec2 instance logo"  />
+  <img width="12" />
+  <img src="https://miro.medium.com/v2/resize:fit:401/0*pxlnDm-ncQdC0UEL.png" height="40" alt="s3 bucket logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
