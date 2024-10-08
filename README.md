@@ -56,7 +56,7 @@
   <img width="12" />
   <img src="https://miro.medium.com/v2/resize:fit:1200/0*os46BZb4bK8cgwcx.png" height="40" alt="vpc logo"  />
   <img width="12" />
-  <img src="https://miro.medium.com/v2/resize:fit:1200/0*os46BZb4bK8cgwcx.png" height="40" alt="ec2 instance logo"  />
+  <img src="https://miro.medium.com/v2/resize:fit:360/0*-jK6l0mVK19v2z0X.png" height="40" alt="ec2 instance logo"  />
   <img width="12" />
   <img src="https://miro.medium.com/v2/resize:fit:401/0*pxlnDm-ncQdC0UEL.png" height="40" alt="s3 bucket logo"  />
   <img width="12" />
